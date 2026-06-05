@@ -4,7 +4,7 @@
 <h3 >I'm a passionate Full Stack Web Developer from India.</h3>
 <p>I'm enthusiastic about learning new technologies and also solving problems in mathematics to solving problems in software engineering,I have developed excellent problem-solving skill that is necessary to solve complex problems.This skill also help me to solve Data structure and algorithms problems.</p>
 
- - 🌱 I’m currently learning *MERN Stack*
+ - 🌱 Full-Stack Developer with 4+ years of experience building scalable web applications using React.js, Next.js, Node.js, Express.js, PostgreSQL, and MongoDB. Experienced in designing high-performance frontend applications, secure backend services, REST APIs, microservices, and cloud-based deployments. Skilled in CI/CD, Docker, Kubernetes, AWS, testing automation, and production monitoring, with a strong focus on scalability, performance optimization, and user-centric solutions.
 - 👯 I’m looking to collaborate on *OpenSource Projects*
 <!-- - 🌱 I’m currently learning various new technologies. -->
  - 👨‍💻 All of my projects are available at **[My Portfolio](https://shashi-kumar-portfolio.vercel.app/)**
